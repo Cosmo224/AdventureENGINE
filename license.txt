@@ -1,0 +1,4 @@
+AdventureENGINE license
+VERSION 1.0, August 19 2016.
+You MAY: Do whatever you want
+You MAY NOT: none.
