@@ -1,6 +1,7 @@
 :: AdventureENGINE
 :: Version 0.1
 :: Starting...
+@echo off
 title AdventureENGINE Base Engine [alpha]
 :title
 cls
