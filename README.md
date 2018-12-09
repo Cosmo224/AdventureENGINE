@@ -1,2 +1,1 @@
-# AdventureENGINE
-The AdventureENGINE is a engine for batch adventure games, based upon Bashcrawler.
+# DISCONTINUED 9 DECEMBER 2018, FREE TO USE, DISREGARD ANY LICENSING
